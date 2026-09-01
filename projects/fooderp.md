@@ -1,18 +1,16 @@
-
----
-
-### `projects/fooderp.md`
-
-```markdown
 # 📦 FoodERP
 
-## Supply Chain & ERP Management Platform
+## Supply Chain & ERP Management System
 
-FoodERP is an enterprise application focused on food-business operations, supply chain workflows, inventory, orders, and reporting.
+**FoodERP** is an enterprise ERP platform designed to manage **sales, inventory, orders, supply chain operations, and business reporting** for food-related businesses.
+
+The system brings multiple operational processes into a centralized business application.
 
 ---
 
-## 🎯 Business Areas
+## 🎯 Business Problem
+
+Food businesses need to coordinate multiple operations:
 
 ```text
 Sales
@@ -23,4 +21,6 @@ Inventory
  ↓
 Supply Chain
  ↓
-Reporting
+Delivery
+ ↓
+Reports
