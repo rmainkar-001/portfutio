@@ -1,68 +1,78 @@
 # 👋 Hi, I'm Rohit Mainkar
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Python+%7C+FastAPI;AI+%7C+LLM+%7C+AI+Agents;Enterprise+Applications;Microservices+%7C+Automation" />
-</p>
+### Full-Stack Developer | AI
 
-<p align="center">
-  <a href="mailto:r.mainkar50@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/rmainkar-001">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+I build scalable enterprise applications and AI-powered solutions.
+
+**React • Python • FastAPI • AI • Microservices • PostgreSQL • Redis • Celery • Docker**
 
 ---
 
-## 🚀 About Me
+## 🚀 Featured Projects
 
-I'm a **Full-Stack Developer** focused on building scalable enterprise applications and AI-powered solutions.
+### 🤖 ERP Agent
 
-I work across the complete application lifecycle:
+AI-powered conversational ERP assistant.
 
-**Frontend → Backend → Database → APIs → AI → Async Processing → Deployment**
-
-My main areas of interest are:
-
-- Full-Stack Development
-- AI & Generative AI
-- AI Agents
-- Enterprise ERP Applications
-- Microservices
-- Workflow Automation
-- Real-Time Applications
-- Scalable Backend Systems
+[View Project →](projects/erp-agent.md)
 
 ---
 
-## 🛠️ Tech Stack
+### ⚙️ TaskFlow
 
-### Frontend
+Template-driven task generation and workflow automation.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,redux,nextjs,tailwind" />
-</p>
+[View Project →](projects/taskflow.md)
 
-### Backend
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express" />
-</p>
+### 🍬 SweetPOS
 
-### Database & Infrastructure
+Billing and inventory management platform.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,docker,kubernetes" />
-</p>
+[View Project →](projects/sweetpos.md)
 
-### AI
+---
 
-```text
-LLMs
-LangChain
-LangGraph
-AI Agents
-RAG
-Natural Language → SQL
-AI Workflow Automation
+### 📦 FoodERP
+
+ERP and supply-chain management platform.
+
+[View Project →](projects/fooderp.md)
+
+---
+
+### 📱 Supplier App
+
+React Native supplier management application.
+
+[View Project →](projects/supplier-app.md)
+
+---
+
+## 🛠️ Core Technologies
+
+React • React Native • Python • FastAPI • PostgreSQL • MySQL
+
+LangChain • LangGraph • AI Agents • Celery • Redis • Kafka
+
+Docker • CI/CD • GitOps • WebSockets
+
+---
+
+## 💼 Experience
+
+**Software Developer — Attrib Solutions Pvt. Ltd.**
+
+2021 – Present
+
+Working across frontend, backend, enterprise applications,
+AI integration, microservices, and automation.
+
+---
+
+## 📫 Contact
+
+📧 r.mainkar50@gmail.com
+
+🔗 https://github.com/rmainkar-001
